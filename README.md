@@ -1,13 +1,18 @@
-# React DOCX document viewer
+---
+code_name: TM-W_WORD-DISCUSS_SPA_REA_TSX_PART
+create_date: 2017-07
+author: TM
+author_site: timsmanter.net
+project_site: me.timsmanter.net
+editor: Visual Studio Code
+language: TypeScript
+framework: React
+locale: en_US
+license: MIT
+status: [Dev, Sample]
+---
 
-* @Author: TimsManter
-* @AuthorSite: [TimsManter.NET](http://timsmanter.net/)
-* @CreateDate: 2017-07
-* @Editor: Visual Studio Code
-* @Language: TypeScript
-* @Framework: React
-* @Locale: en_US
-* @Status: Dev | Active
+# React DOCX document viewer
 
 ## Overview
 
