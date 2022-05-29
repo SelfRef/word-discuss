@@ -7,7 +7,7 @@ locale: en_US
 editor: Visual Studio Code
 license: MIT
 category: [PoC, Web, Utility]
-status: Archive
+dev_status: Archive
 ---
 
 # React DOCX document viewer
