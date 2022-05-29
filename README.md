@@ -1,20 +1,18 @@
 ---
-code_name: TM-W_WORD-DISCUSS_SPA_REA_TSX_PART
 create_date: 2017-07
-author: TM
-author_site: timsmanter.net
-project_site: me.timsmanter.net
-editor: Visual Studio Code
+archive_date: 2017-08
 language: TypeScript
 framework: React
 locale: en_US
+editor: Visual Studio Code
 license: MIT
-status: [Dev, Sample]
+category: [PoC, Web, Utility]
+status: Archive
 ---
 
 # React DOCX document viewer
 
-## Overview
+## Description
 
 Application to view DOCX documents and add comments with submitions to make changes.
 
